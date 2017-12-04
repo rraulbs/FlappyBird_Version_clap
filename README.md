@@ -13,3 +13,5 @@ Example:
 
 ![fpbd3](https://user-images.githubusercontent.com/16651018/33581882-d1a931ac-d939-11e7-96f9-2a6e65c8822c.png)
 
+Obs.:Make sure that you are in a silent place to play this.
+
